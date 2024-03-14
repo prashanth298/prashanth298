@@ -11,7 +11,7 @@ First, configure a Google app, which you can use to integrate WSO2 IS.
 2. If the **APIs & services** page isn't already open, do the following:
 
     1. Open the navigation menu and click **View all products**.
-       ![View all products on the Google console](./assets/img/samples/google-view-all-products.png)
+       ![View all products on the Google console](../assets/img/samples/google-view-all-products.png)
 
     2. Under **Management**, click **APIs & Services**.
        ![Select APIs & Services]({{base_path}}/assets/img/samples/google-apis-and-services.png)
